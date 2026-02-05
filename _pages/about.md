@@ -10,7 +10,7 @@ I am currently a **PhD student** at [**Nanyang Technological University (NTU), S
 
 I received both my **Bachelor’s** and **Master’s degrees** in **Control and Automation Engineering** from [**Hanoi University of Science and Technology (HUST)**][HUST], graduating as valedictorian. I was fortunate to be supervised by [**Prof. Nguyen Doan Phuoc**][NDP] and [**Dr. Minh Hoang Trinh**][THM] for my Master’s thesis, and by [**Assoc. Prof. Nga Thi-Thuy Vu**][VTN] for my Undergraduate thesis.
 
-I have two years of experience (2022–2024) as a Guidance and Control Engineer at [**Viettel Aerospace Institute (VTX)**][VTX] in Hanoi, Vietnam. From August 2025, I was appointed as a Faculty member of the Department of Automation Engineering at HUST, one of Vietnam’s leading engineering universities. At HUST, I am a member of the Advanced and Intelligent Research Group, as well as the Multi-Agent Systems Control Lab.
+I have two years of experience (2022–2024) as a Guidance and Control Engineer at [**Viettel Aerospace Institute (VTX)**][VTX] in Hanoi, Vietnam. From August 2024, I was appointed as a Faculty member of the Department of Automation Engineering at HUST, one of Vietnam’s leading engineering universities. At HUST, I am a member of the Advanced and Intelligent Research Group, as well as the Multi-Agent Systems Control Lab.
 
 I am a control guy! My research interests include **control theory**, **networked control systems**, **resilient control**, and **learning-based control**. I am actively involved in research and teaching, and have published in peer-reviewed journals in these areas. **Feel free to get in touch if you are interested in my work!**
 
