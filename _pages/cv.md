@@ -17,7 +17,7 @@ redirect_from:
 Education
 ======
 * Ph.D student in Electrical and Electronic Engineering, Nanyang Technological University, Singapore, from August 2025
-* M.S. in Control and Automation Engineering, Hanoi University of Science and Technology, 2022
+* M.S. in Control and Automation Engineering, Hanoi University of Science and Technology, 2024
 * B.S. in Control and Automation Engineering, Hanoi University of Science and Technology, 2022
 
 Work experience
