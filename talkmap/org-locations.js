@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "[Research Talk] SV1 - Th\u1ea1c s\u0129 ng\u00e0nh K\u1ef9 thu\u1eadt \u0111i\u1ec1u khi\u1ec3n v\u00e0 t\u1ef1 \u0111\u1ed9ng h\u00f3a \u0110HBK H\u00e0 N\u1ed9i<br />Online; Vietnam",
+    15.9266657,
+    107.9650855
   ]
 ];
