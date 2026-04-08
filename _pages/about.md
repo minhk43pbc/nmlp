@@ -14,6 +14,8 @@ I have two years of experience (2022–2024) as a Guidance and Control Engineer 
 
 I am a control guy! My research interests include **control theory**, **networked control systems**, **resilient control**, and **learning-based control**. I am actively involved in research and teaching, and have published in peer-reviewed journals in these areas. **Feel free to get in touch if you are interested in my work!**
 
+Favourite quote:  "*Nothing is more practical than a good theory.*" Kurt Lewin
+
 [xie]: https://scholar.google.com/citations?user=Fmrv3J8AAAAJ&hl=en
 [VTX]: https://vi.wikipedia.org/wiki/Vi%E1%BB%87n_H%C3%A0ng_kh%C3%B4ng_V%C5%A9_tr%E1%BB%A5_Viettel
 [HUST]: https://hust.edu.vn/en/
